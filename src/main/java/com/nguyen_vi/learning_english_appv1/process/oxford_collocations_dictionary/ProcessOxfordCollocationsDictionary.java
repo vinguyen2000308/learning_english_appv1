@@ -66,7 +66,7 @@ public class ProcessOxfordCollocationsDictionary {
         List<OxfordCollocationsDictionary> result = new ArrayList<>();
         keys.forEach(item -> {
             OxfordCollocationsDictionary build = OxfordCollocationsDictionary.builder()
-                    .keys(item)
+                    .key(item)
                     .values(oxfordCollocationsDictionary.get(item))
                     .build();
             result.add(build);

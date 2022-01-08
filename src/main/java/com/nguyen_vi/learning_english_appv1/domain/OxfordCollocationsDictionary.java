@@ -10,6 +10,6 @@ import java.util.List;
 @ToString
 @Builder
 public class OxfordCollocationsDictionary {
-    private String keys;
+    private String key;
     private List<String> values;
 }
