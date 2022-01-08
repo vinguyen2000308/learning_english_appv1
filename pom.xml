@@ -14,7 +14,7 @@
     <name>learning_english_appv1</name>
     <description>learning_english_appv1</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>1.8</java.version>
     </properties>
     <dependencies>
         <dependency>
