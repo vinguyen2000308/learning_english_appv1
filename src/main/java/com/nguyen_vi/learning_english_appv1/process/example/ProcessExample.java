@@ -15,7 +15,6 @@ public class ProcessExample {
         for (int i = 0; i < ul.size(); i++) {
             for (Element li : ul.get(i).getElementsByTag("li")) {
                 result.add(li.text());
-                result.add("#");
             }
         }
 
