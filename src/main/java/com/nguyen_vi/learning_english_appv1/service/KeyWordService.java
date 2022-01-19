@@ -1,6 +1,6 @@
 package com.nguyen_vi.learning_english_appv1.service;
 
-import com.nguyen_vi.learning_english_appv1.Const;
+import com.nguyen_vi.learning_english_appv1.common.Const;
 import com.nguyen_vi.learning_english_appv1.process.MainProcess;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

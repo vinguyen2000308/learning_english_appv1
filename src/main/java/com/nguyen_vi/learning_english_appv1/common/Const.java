@@ -1,4 +1,4 @@
-package com.nguyen_vi.learning_english_appv1;
+package com.nguyen_vi.learning_english_appv1.common;
 
 public class Const {
     private static final String BASE_URL = "https://www.oxfordlearnersdictionaries.com";
